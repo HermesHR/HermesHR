@@ -51,7 +51,11 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 <code><img height="20" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="HermesHR GitHub Stats">
+<div>
+  <a href="https://github.com/rafaballerini2">
+    <img align="right width ="500cm" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesHR&layout=compact&langs_count=16&theme=dracula"/>
+    <img width = "500" height="210" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ⭐️ From [HermesHR](https://github.com/HermesHR)
 
