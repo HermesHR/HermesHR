@@ -54,7 +54,7 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 <div>
   <a href="https://github.com/rafaballerini2">
     <img align="right width ="500cm" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesHR&layout=compact&langs_count=16&theme=dracula"/>
-    <img width = "500" height="210" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="right width = "500" height="210" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ⭐️ From [HermesHR](https://github.com/HermesHR)
