@@ -6,15 +6,14 @@
 <h3 title="hehehe"> Hey 👋, I'm Hemerson!</h3>
 
 <a href="https://www.linkedin.com/in/hemerson-santos-a71366138/">
-  <img align="left" alt="HermesHR LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="HermesHR LinkdeIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/hermeshr/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.facebook.com/hemerson.ricardo/">
-  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 <br />
 <br />
