@@ -51,6 +51,6 @@ A **Mobile Developer Student** 🚀.
 
 
 <div>
-    <img width ="1000cm" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLPires&layout=compact&langs_count=16&theme=dracula"/>
-    <img width = "1000cm" height="150cm" src="https://github-readme-stats.vercel.app/api?username=MattLPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width ="1000cm" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesHR&layout=compact&langs_count=16&theme=dracula"/>
+    <img width = "1000cm" height="150cm" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
