@@ -51,7 +51,8 @@ A **Mobile Developer Student** 🚀.
 
 
 <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    <img width = "400" height="210" src="
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
  <br />
     <img align="right" width = "400" height="210" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
