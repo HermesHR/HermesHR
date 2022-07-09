@@ -53,8 +53,8 @@ A **Mobile Developer Student** 🚀.
 
 <div>
   <a href="https://github.com/rafaballerini2">
-    <img align="left width ="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesHR&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="right width = "350" height="200" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="left" width ="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesHR&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="right" width = "350" height="200" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ----
