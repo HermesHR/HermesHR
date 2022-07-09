@@ -5,7 +5,6 @@
 -->
 <h3 title="hehehe"> Hey 👋, I'm Hemerson!</h3>
 
-
 <a href="https://www.linkedin.com/in/hemerson-santos-a71366138/">
   <img align="left" alt="HermesHR LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,7 +15,6 @@
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
-
 
 <br />
 <br />
@@ -32,9 +30,7 @@ A **Mobile Developer Student** 🚀.
 - 💬 Estou a disposição para conversar!
 - 📫 Envie-me um e-mail para [hemerson.santos@outlook.com].
 
-
 **Languages and Tools:**  
-
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg"></code>
@@ -46,7 +42,6 @@ A **Mobile Developer Student** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg"></code>
-
 
 <div>
     <img width ="400cm" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesHR&layout=compact&langs_count=16&theme=prussian"/>
