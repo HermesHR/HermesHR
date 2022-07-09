@@ -8,10 +8,10 @@
 <a href="www.linkedin.com/in/hemerson-santos-a71366138">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="[https://www.instagram.com/zamranxd/](https://www.instagram.com/hermeshr/)">
+<a href="[https://www.instagram.com/hermeshr/]">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="[https://www.facebook.com/ZamranxD](https://www.facebook.com/hemerson.ricardo/)">
+<a href="[https://www.facebook.com/hemerson.ricardo/]">
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
