@@ -50,9 +50,8 @@ A **Mobile Developer Student** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg"></code>
 
 
-<div>
-    <img width = "400" height="210" src="
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
+<div
+    <img width ="1000cm" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLPires&layout=compact&langs_count=16&theme=dracula"/>
  <br />
     <img align="right" width = "400" height="210" src="https://github-readme-stats.vercel.app/api?username=HermesHR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
