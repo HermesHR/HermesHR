@@ -6,7 +6,7 @@
 <h3 title="hehehe"> Hey 👋, I'm Hemerson!</h3>
 
 
-<a href="www.linkedin.com/in/hemerson-santos-a71366138">
+<a href="https://www.linkedin.com/in/hemerson-santos-a71366138/">
   <img align="left" alt="HermesHR LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
