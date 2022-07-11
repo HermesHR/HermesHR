@@ -22,12 +22,12 @@ A **Mobile Developer Student** 🚀.
 
 **About Me!**
 
-- 👨🏽💻 Estou atualmente trabalhando como Dev Mobile na Tectoy.
-- 🌱 Estou atualmente explorando Swift/objective C. 
-- 🤔 Meus interesses são Desenvolvimento Mobile Android/IOS
-- 💼 Sou formado em Análise e Desenvolvimento de Sistemas.
-- 💬 Estou a disposição para conversar!
-- 📫 Envie-me um e-mail para [hemerson.santos@outlook.com].
+- 👨🏽💻 I am currently working as a Dev Mobile at Tectoy.
+- 🌱 I am currently exploring Swift/objective C. 
+- 🤔 My interests are Android/IOS Mobile Development
+- 💼 I have a degree in Systems Analysis and Development.
+- 💬 I am available to chat!
+- 📫 Send me an email at [hemerson.santos@outlook.com].
 
 **Languages and Tools:**  
 
