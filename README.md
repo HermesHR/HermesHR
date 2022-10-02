@@ -27,7 +27,7 @@ A **Mobile Developer Student** 🚀.
 - 🤔 My interests are Android/IOS Mobile Development
 - 💼 I have a degree in Systems Analysis and Development.
 - 💬 I am available to chat!
-- 📫 Send me an email at [hemerson.santos@outlook.com].
+- 📫 Send me an email at [hemerson.santos@outlook.com.br].
 
 **Languages and Tools:**  
 
