@@ -24,7 +24,7 @@ A **Mobile Developer Student** 🚀.
 
 - 👨🏽💻 I am currently working as a Dev POS at Tectoy.
 - 🌱 I am currently exploring C and C#. 
-- 🤔 My interests are Android/IOS Mobile Development
+- 🤔 My interests are BackEnd/FullStack Development
 - 💼 I have a degree in Systems Analysis and Development.
 - 💬 I am available to chat!
 - 📫 Send me an email at [hemerson.santos@outlook.com.br].
