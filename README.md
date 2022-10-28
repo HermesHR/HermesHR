@@ -22,7 +22,7 @@ A **Mobile Developer Student** 🚀.
 
 **About Me!**
 
-- 👨🏽💻 I am currently working as a Dev Mobile at Tectoy.
+- 👨🏽💻 I am currently working as a Dev POS at Tectoy.
 - 🌱 I am currently exploring SpringBoot, Java and React. 
 - 🤔 My interests are Android/IOS Mobile Development
 - 💼 I have a degree in Systems Analysis and Development.
